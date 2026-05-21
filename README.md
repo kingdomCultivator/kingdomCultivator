@@ -1,7 +1,10 @@
 # Hello, You.
-Yearn deeply, delving
-To know the inner turnings
-The Music in all
+
+Yearn deeply, Delving
+
+To Know the Inner Turnings
+
+The Music in All
 
 ## 🌱 Current Areas of Study
 - DevSecOps
